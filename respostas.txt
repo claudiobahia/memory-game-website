@@ -1,0 +1,22 @@
+Respondeu de forma correta sobre a criação de layout mobile, e se é o caso deste site?
+R: A criação de um site exclusivo de uso mobile é indicado quando já existe um site pronto e você deseja adaptar para mobile.
+
+Respondeu de forma correta a questão sobre a criação de um CSS específico para PRINT?
+R: Arquivo css específico (<link rel="stylesheet" type="text/css" href="print.css" media="print" />) ou utilizando a media type
+ (@media print {})
+
+Respondeu de forma correta a pergunta referente aos atributos de vídeo e do elemento source?
+R: Atributos (MP4, OGG, WebM), autoplay: iniciar midia com a pagina, buffered: intervalo entre as midias, controls: controles para a midia,
+ loop: midia em loop infinito, muted: midia silenciada, played: indicar o tempo de reprodução, preload: mostra descrições da midia antes de
+  a mesma iniciar, src: caminho da midia
+
+Respondeu de forma correta a pergunta referente aos atributos de áudio e do elemento source?
+R: Atributos (MP3, OGG, WAV), autoplay: iniciar midia com a pagina, buffered: intervalo entre as midias, controls: controles para a midia,
+ loop: midia em loop infinito, muted: midia silenciada, played: indicar o tempo de reprodução, preload: mostra descrições da midia antes
+  de a mesma iniciar, src: caminho da midia
+
+Respondeu de forma correta a pergunta referente a animação no HTML5 e o que são APIs do HTML5?
+R: Para criar animações é necessário utilizar a tecnologia CSS3 ou JavaScript. Novas funcionalidades para facilitar o Dev.
+
+Respondeu de forma correta a pergunta referente a aparência de multimídia com CSS3 e apresentou um exemplo?
+R: Deixar imagem com a bordar arredondada. Ex: border-­radius : 8px ;

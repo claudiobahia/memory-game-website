@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.news {
+    color: white;
+    padding: 10px;
+}
+
+.news-wrapper {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+}
+
+.news-post {
+    margin-left: 50px;
+}

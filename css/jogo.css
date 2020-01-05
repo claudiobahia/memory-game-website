@@ -1,0 +1,53 @@
+button {
+    width: 100%;
+}
+
+#container-jogo {
+    width: 450px;
+    height: 550px;
+    margin: 0 auto;
+    background-color: #000000;
+}
+
+#cardboard {
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: calc(25% - 10px);
+    height: 100px;
+    transform-style: preserve-3d;
+    position: relative;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.card:active {
+    transform: scale(0.95);
+}
+
+.card.flip {
+    transform: rotateY(180deg);
+}
+
+.container-jogo img {
+    width: 100px;
+    height: 100px;
+}
+
+.front, .back {
+    background-color: rgb(137, 174, 206);
+    position: absolute;
+}
+
+.front {
+    transform: rotateY(180deg);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
